@@ -48,7 +48,7 @@ const About = () => {
           >
             <div className="space-y-6">
               <p className="text-xl text-secondary leading-relaxed">
-                Senior pharmaceutical analytical leader with <span className="font-semibold text-primary">15+ years of progressive experience</span> in analytical services, method development, and regulatory compliance within regulated global markets. Currently serving as Vice President – Analytical Services, providing strategic and technical leadership to support product development, technology transfer, and regulatory submissions.
+                Senior pharmaceutical analytical leader with <span className="font-semibold text-primary">25+ years of progressive experience</span> in analytical services, method development, and regulatory compliance within regulated global markets. Currently serving as Vice President – Analytical Services, providing strategic and technical leadership to support product development, technology transfer, and regulatory submissions.
               </p>
               
               <p className="text-xl text-secondary leading-relaxed">
@@ -99,7 +99,7 @@ const About = () => {
             </p>
             <div className="mt-6 flex justify-center space-x-8">
               <div className="text-center">
-                <div className="text-4xl font-bold">15+</div>
+                <div className="text-4xl font-bold">25+</div>
                 <div className="text-base opacity-90">Years Experience</div>
               </div>
               <div className="text-center">
