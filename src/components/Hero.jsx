@@ -55,7 +55,7 @@ const Hero = () => {
                 Regulatory Expert
               </span>
               <span className="px-3 py-1 bg-primary text-white rounded-full text-base">
-                15+ Years Experience (2026)
+                25+ Years Experience (2026)
               </span>
             </div>
 
